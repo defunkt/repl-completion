@@ -1,0 +1,1 @@
+update upgrade install remove autoremove purge source build-dep dist-upgrade dselect-upgrade clean autoclean check
